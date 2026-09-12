@@ -31,7 +31,7 @@
 ---
 
 ## 6. 프로젝트
-2024 Term Deposit Classification ML  
+2024 Term Deposit Prediction Classification ML  
 2025 Strategic Proposal for New Bag Brand Branding  
 2025 NLP-Based Airline Review Analysis  
 2025 Implementation of MLP on CIFAR-10 and ResNet on CIFAR-100
